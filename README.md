@@ -14,5 +14,9 @@ Activate the python virtual environment
 `venv\Scripts\activate` for windows system
 
 Install the required modules to the virtual environment
+
 `pip install -r requirement.txt`
 
+Requirements for dvc
+
+at the very least, i've found that i needed a **Microsoft Visual C++ 14.0 or greater**
